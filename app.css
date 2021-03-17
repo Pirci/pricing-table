@@ -1,7 +1,41 @@
-. {
-    box-sizing: border-box;
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
+
+* {
+  box-sizing: border-box;
 }
 
 body {
-    background-color: pink;
+  font-family: "Open Sans";
+  font-size: 16px;
+  background-color: #191b1d;
+  height: 100vh;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
+.grid {
+  display: flex;
+  justify-content: space-between;
+}
+
+.grid__item {
+  background-color: #22262c;
+  width: 375px;
+  margin: 0 10px;
+  border-radius: 10px;
+  padding: 30px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.grid__item h2 {
+  font-size: 25px;
+}
+
+.grid__price {
+  font-size: 56px;
+}
+
