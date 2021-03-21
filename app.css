@@ -53,7 +53,7 @@ h1 {
   opacity: 1 !important;
 }
 
-.grid-item:last-child .grid__price {
+.grid-item:last-child .grid-price {
   font-size: 36px;
   margin: 10px 0;
 }
@@ -63,12 +63,12 @@ h1 {
   font-weight: 400;
 }
 
-.grid__price {
+.grid-price {
   font-size: 56px;
   font-weight: 700;
 }
 
-.grid__price span {
+.grid-price span {
   font-size: 20px;
 }
 
