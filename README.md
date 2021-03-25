@@ -1,6 +1,6 @@
 # Pricing Table
 
-Sketch to HTML & CSS Pricing Table UI
+Using Sketch, create website from UI design via HTML & CSS.
 
 Please click on the link below to view it.
 
