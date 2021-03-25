@@ -1,4 +1,4 @@
-# pricing-table
+# Pricing Table
 
 Sketch to HTML & CSS Pricing Table UI
 
