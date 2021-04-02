@@ -1,6 +1,8 @@
 # Pricing Table
 
-Using Sketch, create website from UI design via HTML & CSS.
+
+Necessary pictures will be taken from the PSD design with Sketch.
+While creating the structure of the page, CSS Grid and Flexbox are used.
 
 Please click on the link below to view it.
 
