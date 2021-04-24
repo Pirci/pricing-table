@@ -3,7 +3,8 @@
 
 Necessary pictures will be taken from the PSD design with Sketch.
 While creating the structure of the page, CSS Grid and Flexbox are used.
-# Websites create mobile first design approach.
+
+Websites create mobile first design approach.
 
 Please click on the link below to view it.
 
