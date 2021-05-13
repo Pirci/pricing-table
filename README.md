@@ -1,16 +1,30 @@
-# Pricing Table
+# PSD to Pricing Table
+
+> Creating a website by installing the psd file design from scratch. The goal is to build website according to original dimensions from design file. 
 
 
-Necessary pictures will be taken from the PSD design with Sketch.
+Live Demo
 
-While creating the structure of the page, CSS Grid and Flexbox are used.
-
-Websites create mobile first design approach.
-
-Please click on the link below to view it.
-
-https://pirci.github.io/pricing-table/
+Preview:  https://pirci.github.io/pricing-table/
 
 
-![Pricing Page UI Design](https://user-images.githubusercontent.com/43238947/111435290-e532e600-8700-11eb-9bf7-18a9f598ef0f.png)
+![Pricing Page UI Design](demo.gif)
+
+## What I Learned:
+
+- Getting the necessary assets from the PSD file.
+- Get used to the Adobe XD interface.
+- Using Chrome/Firefox's developer tools to debug and see underlying code
+- How elements get placed, styled, and aligned on the page
+- Organizing code with divs to make items easier to position
+- Using CSS Grid for the layout of the page
+- Multiple types of CSS selectors
+
+
+## Possible Improvements
+
+- Cleaner code
+- Use more semantic elements
+- Formatting could be improved when viewing on certain devices/browsers
+
 
