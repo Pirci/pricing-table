@@ -1,5 +1,4 @@
-# PSD to Pricing Table
-
+# PSD to Website
 > Creating a website by installing the psd file design from scratch. The goal is to build website according to original dimensions from design file. 
 
 
@@ -28,3 +27,4 @@ Preview:  https://pirci.github.io/pricing-table/
 - Formatting could be improved when viewing on certain devices/browsers
 
 
+> Any type of suggestions/improvements to this repo are always welcome.
