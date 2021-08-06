@@ -1,6 +1,6 @@
 # PSD to Website
-> Creating a website by installing the psd file design from scratch. The goal is to build website according to original dimensions from design file. 
 
+> Creating a website by installing the psd file design from scratch. The goal is to build website according to original dimensions from design file.
 
 Live Demo
 
